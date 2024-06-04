@@ -1,0 +1,22 @@
+{
+  "name": "task2-nodejs",
+  "version": "1.0.0",
+  "description": "node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stasechka11/task2-nodejs.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Anastasia Fokina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stasechka11/task2-nodejs/issues"
+  },
+  "homepage": "https://github.com/stasechka11/task2-nodejs#readme"
+}
