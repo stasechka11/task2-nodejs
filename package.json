@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/stasechka11/task2-nodejs/issues"
   },
-  "homepage": "https://github.com/stasechka11/task2-nodejs#readme"
+  "homepage": "https://github.com/stasechka11/task2-nodejs#readme",
+  "dependencies": {
+    "eslint": "^9.4.0",
+    "prettier": "^3.3.0"
+  }
 }
